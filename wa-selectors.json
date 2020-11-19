@@ -1,4 +1,5 @@
 {
   "app": ["#app"],
-  "containerForButtons":  ["footer .DuUXI"]
+  "containerForButtons":  ["footer .DuUXI"],
+  "userMenuContainer":["#main header .chGSa.LhZF7"]
 }
