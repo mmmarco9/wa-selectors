@@ -1,0 +1,9 @@
+[
+  { "name": "Mindi", "messageFilter": "Produtos:" },
+  { "name": "Goomer", "messageFilter": "Pedido GoomerGo" },
+  { "name": "StayApp", "messageFilter": "" },
+  {
+    "name": "Strelo",
+    "messageFilter": "Olá! Gostaria de receber o seguinte pedido",
+  },
+]
