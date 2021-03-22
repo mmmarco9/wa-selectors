@@ -5,5 +5,9 @@
   {
     "name": "Strelo",
     "messageFilter": "Olá! Gostaria de receber o seguinte pedido"
+  },
+  {
+   "name":"SubWay",
+    "messageFilter":"Novo Pedido!"
   }
 ]
