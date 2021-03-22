@@ -4,6 +4,6 @@
   { "name": "StayApp", "messageFilter": "" },
   {
     "name": "Strelo",
-    "messageFilter": "Olá! Gostaria de receber o seguinte pedido",
-  },
+    "messageFilter": "Olá! Gostaria de receber o seguinte pedido"
+  }
 ]
