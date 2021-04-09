@@ -9,5 +9,9 @@
   {
    "name":"SubWay",
     "messageFilter":"Novo Pedido!"
+  },
+  {
+    "name":"Olá Click",
+    "messageFilter":"Aqui está o resumo completo do seu pedido"
   }
 ]
