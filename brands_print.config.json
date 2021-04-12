@@ -17,5 +17,9 @@
   {
     "name":"VendeMax",
     "messageFilter":"Número de orden de entrega"
+  },
+  {
+    "name":"GloriaFood",
+    "messageFilter":"Novo Pedido"
   }
 ]
