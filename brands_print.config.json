@@ -13,5 +13,9 @@
   {
     "name":"Olá Click",
     "messageFilter":"Aqui está o resumo completo do seu pedido"
+  },
+  {
+    "name":"VendeMax",
+    "messageFilter":"Número de orden de entrega"
   }
 ]
