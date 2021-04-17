@@ -15,8 +15,8 @@
     "messageFilter":"Aqui está o resumo completo do seu pedido"
   },
   {
-    "name":"VendeMax",
-    "messageFilter":"Número de orden de entrega"
+    "name":"Rapi2",
+    "messageFilter":"Orden de entrega"
   },
   {
     "name":"GloriaFood",
