@@ -21,5 +21,9 @@
   {
     "name":"GloriaFood",
     "messageFilter":"Novo Pedido"
+  },
+  {
+    "name":"Menu24H",
+    "messageFilter":"DADOS DO PEDIDO"
   }
 ]
