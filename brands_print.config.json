@@ -25,5 +25,9 @@
   {
     "name":"Menu24H",
     "messageFilter":"DADOS DO PEDIDO"
+  },
+  {
+    "name":"Viptable",
+    "messageFilter":"DADOS PESSOAIS"
   }
 ]
