@@ -1,5 +1,5 @@
 {
   "app": ["#app"],
-  "containerForButtons":  ["footer ._2A8P4"],
+  "containerForButtons":  ["footer ._2A8P4", "footer .p3_M1"],
   "userMenuContainer":["#main header ._1ljzS.pnYZD"]
 }
