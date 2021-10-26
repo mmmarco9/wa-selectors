@@ -1,6 +1,6 @@
 [
   { "name": "Mindi", "messageFilter": "Produtos:" },
-  { "name": "Goomer", "messageFilter": "Pedido GoomerGo" },
+  { "name": "Goomer", "messageFilter": "Pedido Goomer Delivery" },
   { "name": "StayApp", "messageFilter": "" },
   {"name":"Menu Dino", "messageFilter":"Novo Pedido via MenuDino.com"},
   {
