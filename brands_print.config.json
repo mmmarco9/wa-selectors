@@ -11,10 +11,6 @@
    "name":"SubWay",
     "messageFilter":"Novo Pedido!"
   },
-   {
-   "name":"One Click",
-    "messageFilter":"Pedido N°"
-  },
   {
     "name":"Olá Click",
     "messageFilter":"Preço dos produtos"
