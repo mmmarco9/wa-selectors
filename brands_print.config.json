@@ -28,6 +28,10 @@
     "messageFilter":"DADOS DO PEDIDO"
   },
   {
+    "name":"MixKDelivery",
+    "messageFilter":"Segue o pedido"
+  },
+  {
     "name":"Viptable",
     "messageFilter":"DADOS PESSOAIS"
   }
