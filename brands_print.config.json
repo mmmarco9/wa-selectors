@@ -34,5 +34,9 @@
   {
     "name":"Viptable",
     "messageFilter":"DADOS PESSOAIS"
+  },
+  {
+    "name":"Pedidos Online",
+    "messageFilter":"Pedido N°"
   }
 ]
