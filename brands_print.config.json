@@ -38,5 +38,9 @@
   {
     "name":"Pedidos Online",
     "messageFilter":"Pedido N°"
+  },
+  {
+    "name":"Bot Conversa 1",
+    "messageFilter":"Notificação do Sistema"
   }
 ]
