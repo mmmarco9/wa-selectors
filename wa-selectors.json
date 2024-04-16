@@ -15,6 +15,6 @@
     "#main > header > div._1yNrt > div",
     "#main > header > div._1VwoK > div",
     "#main > header > div._ami8 > div",
-    "#mount_0_0_Um > #app > div > div.two _aigs > div._aigv _aigw > header > header > div > span > div > span"
+    "#app > div > div[class='two _aigs'] > div[class='_aigv _aigw'] > header > header > div > span > div > span"
   ]
 }
