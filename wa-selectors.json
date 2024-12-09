@@ -40,5 +40,6 @@
     "#main > footer > div._ak1k._ahmw.copyable-area > div > span:nth-child(2) > div > div._ak1t._ak1m",
     "#main > footer > div._ak1k.copyable-area > div > span:nth-child(2) > div > div._ak1t._ak1m",
     "#main > footer > div > div > span > div > div"
-  ]
+  ],
+  "notesContainer": ["#main  > span.xmbbrlm"]
 }
