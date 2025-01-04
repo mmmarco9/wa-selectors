@@ -20,11 +20,6 @@
     "#app > div > div[class='two _aigs'] > div[class='_aigv _aigw'] > header > header > div > span > div > span"
   ],
   "containerPerfilButtons": [
-    "header > div:last-child > div:last-child > span",
-    "#app > div > div[class='two _aigs'] > div[class='_aigv _aigw'] > header > header > div > span > div > span",
-    "#app > div > div.two > div > header > header > div > span > div > span",
-    "#app > div > div.x78zum5 > div > div._aigw > header > header > div > span > div > span",
-    "#app > div > div.x78zum5 > div > div._aigw > header > header > div > span > div"
   ],
   "footerButtonsContainer": [
     "#main > footer > div._ak1k._ahmw.copyable-area > div > span:nth-child(2) > div > div._ak1t._ak1m",
