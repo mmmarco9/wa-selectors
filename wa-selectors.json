@@ -45,7 +45,5 @@
     "#main > footer > div._ak1k.copyable-area > div > span:nth-child(2) > div > div._ak1t._ak1m",
     "#main > footer > div > div > span > div > div"
   ],
-  "notesContainer": ["#main  > span.xmbbrlm"],
-  "containerPerfilButtons>Button": ["div", "button"],
-  "containerPerfilButtons>ButtonSVG": ["div > span", "button > span"]
+  "notesContainer": ["#main  > span.xmbbrlm"]
 }
