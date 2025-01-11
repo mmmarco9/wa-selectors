@@ -17,7 +17,8 @@
     "#main > header > div._1yNrt > div",
     "#main > header > div._1VwoK > div",
     "#main > header > div._ami8 > div",
-    "#app > div > div[class='two _aigs'] > div[class='_aigv _aigw'] > header > header > div > span > div > span"
+    "#app > div > div[class='two _aigs'] > div[class='_aigv _aigw'] > header > header > div > span > div > span",
+    "#main > header > div.xmn8rco > div"
   ],
   "containerPerfilButtons": [
     "header > div:last-child > div:last-child > span",
